@@ -32,7 +32,7 @@
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" width="300"/>
 </p>
 
 ### Tools & Technologies
@@ -50,6 +50,8 @@
 - Spring Boot
 - MERN Stack
 - Machine Learning
+- Deep Learning
+- LLM and RAG
 - Generative AI
 - System Design
 - Cloud & DevOps
