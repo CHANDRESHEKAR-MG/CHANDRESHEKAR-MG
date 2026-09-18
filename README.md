@@ -15,15 +15,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student at PES College of Engineering, Mandya
-- 💻 Interested in Software Development, DSA and AI
-- 🌱 Currently strengthening my Data Structures & Algorithms skills
-- ☕ Learning Java and backend development
-- 🌐 Building projects using the MERN stack
-- 🤖 Exploring Machine Learning, AI and Generative AI
+- 🎓 Computer Science & Engineering student at PES College of Engineering, Mandya
+- 💻 Passionate about Software Development, DSA and Full-Stack Development
+- ☕ Currently strengthening my Java and problem-solving skills
+- 🌐 Building projects using the MERN Stack
+- 🤖 Exploring AI, Machine Learning and Generative AI
+- 🧩 Practicing Data Structures & Algorithms regularly
+- 🔄 Transitioned from Mechanical Engineering to Computer Science
 - 🚀 Preparing for Software Engineering internships and placements
-- 📚 Always learning and building something new
-
+-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -38,6 +38,18 @@
 - 🤖 Exploring Machine Learning & Generative AI
 - ☁️ Learning Docker, Kubernetes & Cloud
 - 🏗️ Learning System Design
+
+- ## 🔄 My Journey
+
+**Mechanical Engineering Diploma**  
+⬇️  
+**6-Month Industry Internship – Tokai Rika Minda India Pvt. Ltd.**  
+⬇️  
+**B.E. Computer Science & Engineering**  
+⬇️  
+**Java • DSA • Full Stack • AI/ML**  
+⬇️  
+**Aspiring Software Engineer 🚀**
 
 ## 📚 Currently Learning
 
