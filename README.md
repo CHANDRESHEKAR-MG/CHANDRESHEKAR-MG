@@ -22,19 +22,17 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="40">
-  <img src="https://skillicons.dev/icons?i=css" width="40">
-  <img src="https://skillicons.dev/icons?i=react" width="40">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40">
-  <img src="https://skillicons.dev/icons?i=express" width="40">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40">
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,aws&perline=8" />
 </p>
+
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql" width="250" />
 </p>
 
 ### Web Development
@@ -46,7 +44,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws" width="300" />
 </p>
 
 ---
