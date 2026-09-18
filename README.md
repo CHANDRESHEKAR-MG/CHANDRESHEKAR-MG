@@ -28,13 +28,13 @@
 - ## 🔄 My Journey
 
 **Mechanical Engineering Diploma**  
-⬇️  
+            ⬇️  
 **6-Month Industry Internship – Tokai Rika Minda India Pvt. Ltd.**  
-⬇️  
+            ⬇️  
 **B.E. Computer Science & Engineering**  
-⬇️  
+            ⬇️  
 **Java • DSA • Full Stack • AI/ML**  
-⬇️  
+            ⬇️  
 **Aspiring Software Engineer 🚀**
 
 
