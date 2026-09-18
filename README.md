@@ -22,7 +22,10 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,docker,kubernetes,aws&perline=8" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,aws&perline=8" width="400"/>
 </p>
 ---
 
