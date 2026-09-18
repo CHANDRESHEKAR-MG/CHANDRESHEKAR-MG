@@ -24,10 +24,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,docker,kubernetes,aws&perline=8" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,aws&perline=8" width="400"/>
-</p>
----
 
 ## 📚 Currently Learning
 
@@ -59,12 +55,13 @@ Regular practice of Data Structures & Algorithms using Java.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRESHEKAR-MG&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRESHEKAR-MG&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHANDRESHEKAR-MG&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
