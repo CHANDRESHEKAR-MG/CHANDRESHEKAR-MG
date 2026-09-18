@@ -25,6 +25,18 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,docker,kubernetes,aws&perline=8" />
 </p>
 
+### 🚀 3. What I'm Working On
+
+```markdown
+## 🚀 What I'm Working On
+
+- 🔥 Solving DSA problems regularly
+- ☕ Improving my Java & problem-solving skills
+- 🌐 Building full-stack applications with MERN
+- 🤖 Exploring Machine Learning & Generative AI
+- ☁️ Learning Docker, Kubernetes & Cloud
+- 🏗️ Learning System Design
+
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
@@ -51,10 +63,6 @@ Full-stack applications using MongoDB, Express.js, React and Node.js.
 ### 🧠 DSA Practice
 Regular practice of Data Structures & Algorithms using Java.
 
----
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,16 +71,6 @@ Regular practice of Data Structures & Algorithms using Java.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRESHEKAR-MG&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
