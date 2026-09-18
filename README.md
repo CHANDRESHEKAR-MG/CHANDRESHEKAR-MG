@@ -19,34 +19,11 @@
 - 🚀 Preparing for Software Engineering internships and placements
 - 📚 Always learning and building something new
 
----
-
-## 🛠️ Tech Stack
 ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker,kubernetes,aws&perline=8" />
 </p>
-
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql" width="250" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" width="300"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws" width="300" />
-</p>
-
 ---
 
 ## 📚 Currently Learning
