@@ -24,6 +24,20 @@
 - 🔄 Transitioned from Mechanical Engineering to Computer Science
 - 🚀 Preparing for Software Engineering internships and placements
 -
+
+- ## 🔄 My Journey
+
+**Mechanical Engineering Diploma**  
+⬇️  
+**6-Month Industry Internship – Tokai Rika Minda India Pvt. Ltd.**  
+⬇️  
+**B.E. Computer Science & Engineering**  
+⬇️  
+**Java • DSA • Full Stack • AI/ML**  
+⬇️  
+**Aspiring Software Engineer 🚀**
+
+
 ## 💻 Tech Stack
 
 <p align="left">
@@ -38,18 +52,6 @@
 - 🤖 Exploring Machine Learning & Generative AI
 - ☁️ Learning Docker, Kubernetes & Cloud
 - 🏗️ Learning System Design
-
-- ## 🔄 My Journey
-
-**Mechanical Engineering Diploma**  
-⬇️  
-**6-Month Industry Internship – Tokai Rika Minda India Pvt. Ltd.**  
-⬇️  
-**B.E. Computer Science & Engineering**  
-⬇️  
-**Java • DSA • Full Stack • AI/ML**  
-⬇️  
-**Aspiring Software Engineer 🚀**
 
 ## 📚 Currently Learning
 
