@@ -22,6 +22,14 @@
 ---
 
 ## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="40">
+  <img src="https://skillicons.dev/icons?i=css" width="40">
+  <img src="https://skillicons.dev/icons?i=react" width="40">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40">
+  <img src="https://skillicons.dev/icons?i=express" width="40">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40">
+</p>
 
 ### Languages
 
