@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+MERN+Stack;Learning+AI+%26+Machine+Learning;Building+Projects+%26+Solving+Problems" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+MERN+Developer;Exploring+AI+%26+Machine+Learning;Building+Projects+%7C+Solving+Problems;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -25,9 +27,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,docker,kubernetes,aws&perline=8" />
 </p>
 
-### 🚀 3. What I'm Working On
-
-```markdown
 ## 🚀 What I'm Working On
 
 - 🔥 Solving DSA problems regularly
