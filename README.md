@@ -84,8 +84,9 @@ Regular practice of Data Structures & Algorithms using Java.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHANDRESHEKAR-MG&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true" />
 </p>
 
 
