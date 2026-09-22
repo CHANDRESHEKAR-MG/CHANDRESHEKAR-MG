@@ -81,8 +81,12 @@ Regular practice of Data Structures & Algorithms using Java.
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://streak-stats.demolab.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true&v=2" />
+<!-- <p align="center">
+ <img src="https://streak-stats.demolab.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true&v=2" /> -->
+
+// <h3 align="left">GitHub Stats:</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandreshekarmg&" alt="chandreshekarmg" /></p>
 
 
 ## 💡 Developer Mindset
