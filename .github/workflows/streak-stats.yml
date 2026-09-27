@@ -1,0 +1,25 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          USERNAME: CHANDRESHEKAR-MG
+          THEME: tokyonight
+          HIDE_BORDER: true
+          OUTPUT_PATH: profile/streak.svg
+
+      - name: Commit streak stats
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub streak stats"
+          add: "profile/streak.svg"
