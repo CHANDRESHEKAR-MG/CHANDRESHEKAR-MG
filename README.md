@@ -87,18 +87,6 @@ Regular practice of Data Structures & Algorithms using Java.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=CHANDRESHEKAR-MG&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
-  </a>
-</p>
 
 ## 💡 Developer Mindset
 
