@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandreshekar MG
 
-### 💻 Computer Science Engineering Student | Software Developer | DSA Enthusiast
+### 💻 Computer Science Engineering Student | Software Developer | DSA Enthusiastic ||Full Stack 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Student" />
